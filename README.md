@@ -1,16 +1,22 @@
-### Under construction 🏗
+### Hey there 👋
 
-<!--
-**r4dixx/r4dixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I develop Android apps with a passion for **UI/UX** and a genuine thirst for **knowledge**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **self-taught**, fully **remote** worker, and it's been going great so far 🙌 I like experimenting with stuff, related or not-related to programming and I'm involved in the **Android community** as an organizer 👥 (Paris Android User Group, Android Makers, etc.) 
+
+I like to work in teams where **user satisfaction** is a must and where ideas can be exchanged freely, in a **healthy** way 🤗✨ I just believe it's possible to make amazing work without being a jerk ¯\_(ツ)_/¯ **#DontBeAJerk**
+
+I'm currently working on `eLisa`, a French newspaper app gathering 40+ brands and packed with a good bunch of features ([more on this here](https://elisa.prismamedia.com/))
+
+Well, your turn now 🙂 Who are you? Give me a shout!
+
+---
+
+### Links 🔗
+
+- [LinkedIn](https://linkedin.com/in/r4dixx)
+- [Twitter](https://twitter.com/r4dixx)
+- [GitLab](https://gitlab.com/asikel)
+- [GitHub](https://github.com/r4dixx)
