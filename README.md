@@ -6,8 +6,6 @@ I'm a **self-taught**, fully **remote** worker, and it's been going great so far
 
 I like to work in teams where **user satisfaction** is a must and where ideas can be exchanged freely, in a **healthy** way 🤗✨ I just believe it's possible to make amazing work without being a jerk 🤷 **#DontBeAJerk**
 
-I'm currently working on [eLisa](https://play.google.com/store/apps/details?id=com.prismamedia.elisa), a French newspaper app packed with a bunch of good features, [more on this here](https://elisa.prismamedia.com/) 👀
-
 Well, your turn now 🙂\
 Who are you? Give me a shout!
 
