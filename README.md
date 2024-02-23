@@ -9,18 +9,7 @@ I like to work in teams where **user satisfaction** is a must and where ideas ca
 Well, your turn now 🙂\
 Who are you? Give me a shout!
 
-<br/>
-
-***
-
-## Check out my resume 📄
-## 👉 [ceev.io/@r4dixx](https://ceev.io/@r4dixx) 👈
-
-***
-
-<br/>
-
-## Or find me online 🔗
+## Find me online 🔗
 
 | 💼 [LinkedIn](https://linkedin.com/in/r4dixx) | 🐦 [Twitter](https://twitter.com/r4dixx) | 👨‍💻 [GitLab](https://gitlab.com/asikel) | 👨‍💻 [GitHub](https://github.com/r4dixx) | ❓ [Stack Overflow](https://stackoverflow.com/users/8053848/r4dixx) |
 
