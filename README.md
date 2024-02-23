@@ -13,6 +13,4 @@ Who are you? Give me a shout!
 
 | 💼 [LinkedIn](https://linkedin.com/in/r4dixx) | 🐦 [Twitter](https://twitter.com/r4dixx) | 👨‍💻 [GitLab](https://gitlab.com/asikel) | 👨‍💻 [GitHub](https://github.com/r4dixx) | ❓ [Stack Overflow](https://stackoverflow.com/users/8053848/r4dixx) |
 
-<br/>
-
 <a target="_blank" href="https://trakt.tv/users/r4dixx"><img width="500" height="321" alt="r4dixx" src="https://widgets.trakt.tv/users/3a0c19fd788a2d13b67b05f938c34f3c/watched/fanart@2x.jpg" /></a>
