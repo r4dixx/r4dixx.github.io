@@ -11,6 +11,6 @@ Who are you? Give me a shout!
 
 ## Find me online 🔗
 
-| 💼 [LinkedIn](https://linkedin.com/in/r4dixx) | 𝕏 [X](https://x.com/r4dixx) | 👨‍💻 [GitLab](https://gitlab.com/asikel) | 👨‍💻 [GitHub](https://github.com/r4dixx) | ❓ [Stack Overflow](https://stackoverflow.com/users/8053848/r4dixx) |
+| 💼 [LinkedIn](https://linkedin.com/in/r4dixx) | 𝕏 [X](https://x.com/r4dixx) | 👨‍💻 [GitLab](https://gitlab.com/r4dixx) | 👨‍💻 [GitHub](https://github.com/r4dixx) | ❓ [Stack Overflow](https://stackoverflow.com/users/8053848) |
 
 <a target="_blank" href="https://trakt.tv/users/r4dixx"><img width="500" height="321" alt="r4dixx" src="https://widgets.trakt.tv/users/3a0c19fd788a2d13b67b05f938c34f3c/watched/fanart@2x.jpg" /></a>
