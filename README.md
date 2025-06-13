@@ -6,7 +6,17 @@ I'm a **self-taught**, fully **remote** worker, and it's been going great so far
 
 I like to work in teams where **user satisfaction** is a must and where ideas can be exchanged freely, in a **healthy** way 🤗✨ I just believe it's possible to make amazing work without being a jerk 🤷 **#DontBeAJerk**
 
-Well, your turn now 🙂\
+---
+
+### 📄 Resume
+
+For a detailed look at my skills and experience, please see my online resume, downloadable in PDF.
+
+> ### ➡️ [**Click here to view my CV**](https://cv.r4dixx.com) ⬅️
+
+---
+
+Well, your turn now 🙂
 Who are you? Give me a shout!
 
 ## Find me online 🔗
